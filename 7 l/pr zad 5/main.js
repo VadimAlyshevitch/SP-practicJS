@@ -1,10 +1,10 @@
-function chessboard() {
+function chessBoard() {
     let newTable = document.createElement( 'table' ),
         lets = [ '','A','B','C','D','E','F','G','H','' ],
-        blackFigs1 = [ '8','♜','♞','♝','♛','♚','♝','♞','♜','8' ],
-        whiteFigs1 = [ '1','♖','♘','♗','♕','♔','♝','♗','♖','1' ],
-        blackFigs2 = [ '7','♟','♟','♟','♟','♟','♟','♟','♟','7' ],
-        whiteFigs2 = [ '2','♙','♙','♙','♙','♙','♙','♙','♙','2' ];
+        blackFigs1 = [ '8','T','H','O','Q','K','O','O','T','8' ],
+        whiteFigs1 = [ '1','T','H','O','Q','K','O','O','T','1' ],
+        blackFigs2 = [ '7','P','P','P','P','P','P','P','P','7' ],
+        whiteFigs2 = [ '2','P','P','P','P','P','P','P','P','2' ];
     for ( let i = 0, a = 9; i < 10, a >= 0; i++, a-- ) {
         let newTr = newTable.insertRow(i);
         for ( let j = 0; j < 10; j++ ) {
@@ -38,4 +38,4 @@ function chessboard() {
     }
     document.body.appendChild( newTable );
 };
-chessboard();
+chessBoard();
