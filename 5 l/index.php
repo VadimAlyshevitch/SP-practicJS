@@ -1,8 +1,5 @@
 <?php
   require('header.php');
- $title = include('/include/main.php');
- 
-
 ?>
 
    

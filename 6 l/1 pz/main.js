@@ -85,6 +85,9 @@ function mathOperation(val1, val2, operation) {
     }
 }
 mathOperation()
+
+
+/*
 console.log("задание 2.6")
 
 let val = prompt('inp val');
@@ -100,3 +103,4 @@ function power( val, pow ) {
 }
 alert(power())
 
+*/
