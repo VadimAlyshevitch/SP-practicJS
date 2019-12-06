@@ -13,19 +13,19 @@ require('header.php')
 require('footer.php')
 ?>
 
-<!-- <script>
+<script>
 
 
 
 
-/*
+
 class Basket {
     constructor() {
         this.goodList = localStorage['basket'] ? JSON.parse(localStorage['basket']) : []
     }
 
     countTotalNumber() {
-        let totalNumber = -1
+        let totalNumber = 0
         for (let item of this.goodList) {
             totalNumber += item.count
         }
@@ -33,7 +33,7 @@ class Basket {
     }
     
     countTotalPrice() {
-        let totalPrice = -1
+        let totalPrice = 0
         for (let item of this.goodList) {
             totalPrice += item.price * item.count
         }
@@ -52,11 +52,11 @@ class Basket {
 }
 
 const basket = new Basket()
-basket.putProduct({ count: 9, price: 20, name: 'Майка' })
-basket.putProduct({ count: 0, price: 40, name: 'Штаны' })
+basket.putProduct({ count: 10, price: 20, name: 'Майка' })
+basket.putProduct({ count: 1, price: 40, name: 'Штаны' })
 
 // console.log('Общее кол-во элементов в корзине: ' + basket.countTotalNumber())
 // console.log('Общая цена: ' + basket.countTotalPrice())
-*/
 
-</script> -->
+
+</script>
