@@ -110,25 +110,25 @@
         <p class="description" >
         
 <br>
-           <strong>Карманный календарь  с Путиным</strong> 
+           <strong>lorem</strong> 
            <br>
-Возможна печать различных видов и размеров карманных календарей, ламинация как матовой, так и глянцевой пленкой. Наиболее популярные форматы: 55х85 (формат дисконтной карты) и 70х100 мм (самый традиционный формат карманного календаря). Характеристики карманных календарей:  мелованная бумага, 300 г/кв.м. цветность 4+4, CMYK, ламинация 38 микрон, скругленные углы.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur delectus mollitia dolore laboriosam similique provident rem facere nemo, perspiciatis voluptate aperiam molestias, temporibus officia ullam ex velit magnam enim pariatur.
 <br>
-<strong>Настольный календарь  с Путиным</strong>
-<br>
-
-Настольный календарь представляет собой лист формата А4, запечатанного с одной стороны . Календарь имеет 3 бига для облегчения его сборки. Собирается такой календарь на замочек или обыкновенную скрепку. В собранном виде формат каждой из двух его сторон составляет 210 х 120 мм. Печать календарей производится на мелованной бумаге плотностью 280-295 г/кв.м.
-<br>
-<strong>Настенный перекидной календарь  с Путиным</strong>
+<strong>Lorem</strong>
 <br>
 
-Настенный перекидной календарь — один из самых солидных видов календарей. Настенный календарь можно изготовить в любом формате, наиболее популярные из них — А2 и А3. Блок календаря состоит из 6 или 12 листов мелованной бумаги плотностью 150 г/кв.см, обложка 250 г/кв.см. Крепится при помощи ригеля и навивки на металлическую пружину.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur delectus mollitia dolore laboriosam similique provident rem facere nemo, perspiciatis voluptate aperiam molestias, temporibus officia ullam ex velit magnam enim pariatur.
 <br>
-<strong>Квартальный календарь  с Путиным</strong>
+<strong>lorem</strong>
+<br>
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur delectus mollitia dolore laboriosam similique provident rem facere nemo, perspiciatis voluptate aperiam molestias, temporibus officia ullam ex velit magnam enim pariatur.
+<br>
+<strong>Lorem</strong>
 
 <br>
-Самый популярный вид исполнения календарей. Состоит из 4-х частей: шапки с главным рекламным полем формата А4 и трех блоков с календарной сеткой и небольшим рекламным полем  50-60 мм. Календарная сетка печатается на офсетной бумаге с цветностью 2+0, шапка календаря печатается на мелованной бумаге плотностью 300 г/кв.см. с печатью 4+0. Дополнительно можно заламинировать шапку календаря глянцевой или матовой ламинацией.
-        </p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur delectus mollitia dolore laboriosam similique provident rem facere nemo, perspiciatis voluptate aperiam molestias, temporibus officia ullam ex velit magnam enim pariatur.
+<br>     </p>
 
 
     </div>

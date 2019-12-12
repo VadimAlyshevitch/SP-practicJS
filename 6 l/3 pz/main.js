@@ -36,10 +36,11 @@ console.log('задание 3.3');
 
 
 for (let i = 0; i < 9; i++, console.log(i)) {
-    
+    //empty
 }
 
 console.log('задание 3.4');
+
 let arr = [];
 let end = 0;
 while (end < 20){

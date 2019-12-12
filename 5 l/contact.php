@@ -5,7 +5,7 @@ require('header.php')
 
 
 <h1 class="map-title">Контакты</h1>
-<div class="row">     
+<div class="row" style="margin-bottom: 3%;">     
 
         <div class="desc-container">
         <div class="left">

@@ -24,30 +24,23 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="/">Главная <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/">Главная </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="catalog.php">Каталог</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="about.php">О нас</a>
-      </li>
+     
       <li class="nav-item">
         <a class="nav-link" href="contact.php">Контакты</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="forma.php">Стать частью нашей команды</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="basket.php">Корзина</a>
-      </li>
+     
    
       
     </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
+  
   </div>
 </nav>
 

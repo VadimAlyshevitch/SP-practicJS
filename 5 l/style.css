@@ -123,3 +123,8 @@
 form {
     margin: 5% 0 5%;
 }
+.detail-container {
+    display: flex;
+    clear: both;
+    margin: 2% 0 3% 0;
+}

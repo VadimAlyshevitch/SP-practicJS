@@ -8,25 +8,16 @@
 
 let max = 999;
 //let min = 0;
+function numberToObj(num) {
+    let obj = {};
+    if (num < 1 || num > 999) {
+        console.log("Превышающее значение" + obj)
+    } else {
+        obj["единицы"] = num % 10;
+        obj["десятки"] = (num - obj["единицы"]) % 100 / 10;
+        obj["сотни"] = (num - obj["единицы"] - obj["десятки"] * 10) % 1000 / 100;
+    }
+    console.log(obj)
+}
 
-let values = {
-    number : +prompt('Введите число от 0 до 999'),     
-    units : 0,
-    tens : 0,
-    thousend : 0
-};
-
-if (values.number <=9){
-    values.units =  values.number
-} else if (values.number <= 999){
-    values.units = Math.floor(values.number % 10);
-    values.tens = Math.floor(values.number / 10 % 10);
-    values.thousend = Math.floor(values.number / 100 % 10);
-  } else {
-    values.number = 0;
-      console.log('Вы ввели число за диапазоном 0 - 999');
-  }
-  document.write("Единицы: "+values.units);
-  document.write("<br>Десятки: " + values.tens);
-  document.write("<br>Сотни: " + values.thousend);
-
+numberToObj(123);

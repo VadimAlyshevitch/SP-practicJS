@@ -7,6 +7,7 @@
   <div class="media-body">
     <h5 class="mt-0">Stigmata</h5>
     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+    <a href="detail_page1.php" class="btn btn-primary" data-price="1100">1100 рублей</a>
   </div>
 </div>
 <div class="media">
@@ -14,6 +15,7 @@
   <div class="media-body">
     <h5 class="mt-0">Купить Король и Шут</h5>
     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+    <a href="#" class="btn btn-primary" data-price="1100">1100 рублей</a>
   </div>
 </div>
 <div class="media">
@@ -21,6 +23,7 @@
   <div class="media-body">
     <h5 class="mt-0">Оригами</h5>
     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+    <a href="detail_page1.php" class="btn btn-primary" data-price="1100">1100 рублей</a>
   </div>
 </div>
 <div class="media">
@@ -28,6 +31,7 @@
   <div class="media-body">
     <h5 class="mt-0">NARUTO</h5>
     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+    <a href="#" class="btn btn-primary" data-price="1100">1100 рублей</a>
   </div>
 </div>
 
@@ -36,6 +40,7 @@
   <div class="media-body">
     <h5 class="mt-0">Tokio Hotel</h5>
     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+    <a href="#" class="btn btn-primary" data-price="1100">1100 рублей</a>
   </div>
 </div>
 
@@ -45,6 +50,5 @@
 
 
 <?php
- require('footer.php')
-
+ require('footer.php');
 ?>
